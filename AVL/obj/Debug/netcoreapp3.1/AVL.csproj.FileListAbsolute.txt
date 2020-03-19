@@ -1,0 +1,11 @@
+D:\DevEducation\AVL\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.exe
+D:\DevEducation\AVL\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.deps.json
+D:\DevEducation\AVL\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.runtimeconfig.json
+D:\DevEducation\AVL\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.runtimeconfig.dev.json
+D:\DevEducation\AVL\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.dll
+D:\DevEducation\AVL\AVL\AVL\bin\Debug\netcoreapp3.1\AVL.pdb
+D:\DevEducation\AVL\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.csprojAssemblyReference.cache
+D:\DevEducation\AVL\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.AssemblyInfoInputs.cache
+D:\DevEducation\AVL\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.AssemblyInfo.cs
+D:\DevEducation\AVL\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.dll
+D:\DevEducation\AVL\AVL\AVL\obj\Debug\netcoreapp3.1\AVL.pdb
